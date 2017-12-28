@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-Create on Feb 16, 2011
+Create on 2017/12/28
 k Means Clustering for c10 of Machine Learning in Action
 @author: zolanunu
 '''

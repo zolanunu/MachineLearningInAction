@@ -227,5 +227,6 @@ def clusterClubs(numClust=5):
 
 聚类是一个无监督的算法，无监督是事先不知道要寻找的内容，也就是没有目标变量。聚类将数据点归到多个簇中。
 
+下面是一个k-means的思维导图，来帮助回忆吧。
 
-
+![](./c10 kmeans algorithm.png)
